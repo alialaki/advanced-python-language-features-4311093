@@ -3,6 +3,7 @@
 
 
 def my_function(arg1, arg2=None):
+    
     print(arg1, arg2)
 
 
